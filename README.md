@@ -1,8 +1,5 @@
-# todo-list
-USING HTML CSS AND JS
-
-This project contains a simple TODO application It has the following features -
-
-Anyone can create a todo
-Anyone can see their existing todos
-Anyone can mark a todo as done
+# todo-list (USING HTML CSS AND JS)
+This project contains a simple TODO -list It has the following features -
+  Anyone can create a todo
+  Anyone can see their existing todos
+  Anyone can mark a todo as done
